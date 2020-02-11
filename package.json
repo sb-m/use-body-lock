@@ -1,0 +1,29 @@
+{
+  "name": "use-lock-body",
+  "version": "1.0.0",
+  "description": "A React hook that can be used to lock the body from scrolling.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawberrymilk-studio/use-body-lock.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "body",
+    "scroll",
+    "lock",
+    "freeze",
+    "overflow",
+    "style"
+  ],
+  "author": "Strawberry Milk Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strawberrymilk-studio/use-body-lock/issues"
+  },
+  "homepage": "https://github.com/strawberrymilk-studio/use-body-lock#readme"
+}
