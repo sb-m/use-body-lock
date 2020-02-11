@@ -4,6 +4,7 @@
   "description": "A React hook that can be used to lock the body from scrolling.",
   "main": "dist/main.js",
   "scripts": {
+    "build": "webpack --mode=production",
     "test": "npm run test"
   },
   "repository": {
@@ -25,5 +26,17 @@
   "bugs": {
     "url": "https://github.com/strawberrymilk-studio/use-body-lock/issues"
   },
-  "homepage": "https://github.com/strawberrymilk-studio/use-body-lock#readme"
+  "homepage": "https://github.com/strawberrymilk-studio/use-body-lock#readme",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2"
+  }
 }
