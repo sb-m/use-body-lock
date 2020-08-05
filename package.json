@@ -35,8 +35,8 @@
   "devDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-router-dom": "^5.1.2",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "react-router-dom": "^5.2.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
